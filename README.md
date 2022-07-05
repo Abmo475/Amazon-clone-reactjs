@@ -1,6 +1,6 @@
 
 # Amazon - Clone using ReactJs
-##Tool
+## Tool
 -visual studio code
 
 ## Technology Used
